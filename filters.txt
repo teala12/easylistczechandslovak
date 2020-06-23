@@ -461,6 +461,8 @@ zena-in.cz##div.main-top
 zena-in.cz##div.site-reklama
 zing.cz##a[id^="rek_link"]
 zing.cz##div.jeg_ad
+zive.cz##body>div:first-child[id][class][style]
+zive.cz,mobilmania.cz,e15.cz##body>div:first-child
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##div.sky-wrapper
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz##.ads
 zive.cz,mobilmania.cz,autorevue.cz,e15.cz,maminka.cz###content-lead
